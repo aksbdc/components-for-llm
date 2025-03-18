@@ -10,3 +10,5 @@
 ## Economic Development Organizations
 
 - https://support.outreachsystems.com/resources/help/neoserra/questions/
+- https://law.alaska.gov/doclibrary/ethics/EthicsAct.html
+- https://www.eda.gov/funding/programs/build-to-scale
