@@ -12,3 +12,9 @@
 - https://support.outreachsystems.com/resources/help/neoserra/questions/
 - https://law.alaska.gov/doclibrary/ethics/EthicsAct.html
 - https://www.eda.gov/funding/programs/build-to-scale
+
+# End User License Agreement (EULA)
+
+## SQL Server
+
+- https://www.microsoft.com/licensing/terms/productoffering/SQLServer/all
