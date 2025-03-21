@@ -17,4 +17,16 @@
 
 ## SQL Server
 
-- https://www.microsoft.com/licensing/terms/productoffering/SQLServer/all
+# Schedule
+
+##  April 2 - Optimizing AI tools for small business.
+
+## May 7 - Market Expansion through Export.
+
+## June 4 - Supply Chain Management and Logistics.
+
+## July 2 - Angel investors and microloans; how they help start-ups.
+
+## August 6 - LLC vs other license structures which entity is right for you?
+
+## September 3 - Understanding Cottage Business Laws.

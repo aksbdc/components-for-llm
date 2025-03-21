@@ -1,0 +1,3 @@
+[submodule "Debian-weak-keys"]
+	path = Debian-weak-keys
+	url = https://github.com/cabforum/Debian-weak-keys/
